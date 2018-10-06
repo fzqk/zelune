@@ -1,0 +1,2 @@
+To get this script working, you need to CHMOD both "cookies" and "uploads" to 777
+After you've done that, ensure safe_mode is off, and open_basedir is UNSET! (PHP related)
