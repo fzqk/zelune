@@ -1,0 +1,31 @@
+﻿<?
+$lang1='온라인 대리인 | 사이트 요원 - 네트워크에 사전 확인을 에이전트 ';
+$lang2='무료 온라인 프록시 서버, 웹 에이전트, 온라인 대리인, 무료 대리인, 즉 에이전트, 에이전트 브라우저를';
+$lang3='가되기 최고의 그리고 가장 인간의 빠른 - 중합 스테이션 에이전트';
+$lang4='홈페이지에';
+$lang5='장바구니 즐겨찾기';
+$lang6='온라인 도구';
+$lang7='를 대리인';
+$lang8='도움말';
+$lang9='보기';
+$lang10='메시지';
+$lang11='당신의IP';
+$lang12='If You Like Our List, You Can Place The Html Codes Below To Your Site<br />The Bgcolor Is Transparent, You Can Change The "http://www.Google.com"(Goal Url), Just Copy This Codes Below To Begin:';
+$lang13='If you have or bulit any WEB Proxy site, PHP Proxy site, CGI Proxy site, you can email it to me, Email:<b>8550225<b>@</b>gmail.com</b>, please add "proxy site" in the email subject, our logo is:';
+$lang14='Make sure link with us! thanks!';
+$lang15='Simply enter the desired URL ( link ) you want to visit, select a proxy server, then hit Start. It will bring you to the page indirectly without them knowing your real IP. ';
+$lang16='Last Updated';
+$lang17='Connect Proxy Server ...';
+$lang18='Connect Proxy Server ...';
+$lang19='Last Visit Log';
+$lang20='Your Visit Log';
+$lang21='서버';
+$lang22='미국';
+$lang23='Google 검색';
+$lang24='CSS 스타일 편집기';
+$lang25='Google 번역';
+$lang26='http://translate.google.co.kr/';
+$lang27='Md5 crack';
+$lang28='방문을 원하는 URL을 입력하여주십시오';
+$lang29='이후 각 프록시 서버 디자인의 측면에서, 그래서 충분한 능력을 더욱 완벽하게 할 필요가 없다 사용에, 거기에 프록시 서버에 직접 페이지를 이동이 시간에, 당신은 클릭할 수있습니다 다른 절차를 사용하여 브라우저의 뒤로 버튼 그래서 당신이 웹 사이트 또는 귀국 대리인의 수입에서 입력을 방문하실 수있습니다.';
+?>

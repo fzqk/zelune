@@ -1,0 +1,31 @@
+<?
+$lang1='Free Web Proxy List';
+$lang2='browse at school, unblock myspace, proxy, free proxy, php proxy, browse, browse at school, surf anonymously';
+$lang3='browse at school, unblock myspace, proxy, free proxy, php proxy, browse, browse at school, surf anonymously';
+$lang4='HomePage';
+$lang5='Favorite';
+$lang6='Online tools';
+$lang7='Submit Proxy';
+$lang8='How To Use';
+$lang9='Surf Now!';
+$lang10='Message';
+$lang11='Yours IP';
+$lang12='If You Like Our List, You Can Place The Html Codes Below To Your Site<br />The Bgcolor Is Transparent, You Can Change The "http://www.Google.com"(Goal Url), Just Copy This Codes Below To Begin:';
+$lang13='If you have or bulit any WEB Proxy site, PHP Proxy site, CGI Proxy site, you can email it to me, Email:<b>8550225<b>@</b>gmail.com</b>, please add "proxy site" in the email subject, our logo is:';
+$lang14='Make sure link with us! thanks!';
+$lang15='Simply enter the desired URL ( link ) you want to visit, select a proxy server, then hit Start. It will bring you to the page indirectly without them knowing your real IP. ';
+$lang16='Last Updated';
+$lang17='Connect Proxy Server ...';
+$lang18='Connect Proxy Server ...';
+$lang19='Last Visit Log';
+$lang20='Your Visit Log';
+$lang21='Server';
+$lang22='USA';
+$lang23='Google Search';
+$lang24='Css style edit';
+$lang25='Google Translate';
+$lang26='http://translate.google.com/';
+$lang27='Md5 crack';
+$lang28='Please enter the URL you want to visit';
+$lang29='Since each proxy server to use different procedures, in terms of design does not have enough ability to do even more perfect, so when in use, there may be a direct page Jump to the proxy server at this time, you can click your browser'."'".'s back button so that you can visit the web site enter, or return home from the importation of the agent.';
+?>
